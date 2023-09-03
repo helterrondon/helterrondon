@@ -4,9 +4,9 @@
 💻 Adoro fuçar em códigos, e quanto mais eu quebro a cabeça, mais eu curto programar! 😅 Resolver desafios e aprender são meus passatempos. Partiu, codar! 🚀
 
 ### Sobre mim
-- 💻 Sou novato na programação, mas tô firme na missão de virar um **Desenvolvedor Frontend** de respeito!
+- 💻 Estou começando na programação, mas tô firme na missão de virar um **Desenvolvedor Frontend** de respeito!
 
-- 🧠 Até agora, já mandei bem com **HTML** e **CSS**, e tô botando pra quebrar no **SASS** também!
+- 🧠 Até agora, já mandei bem com **HTML**, **CSS** e **SASS** também!
 
 - 🤓 No momento, tô me aprofundando no **JavaScript**! 
 

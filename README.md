@@ -1,5 +1,5 @@
 ## E aí! Tranquilo? Sou o Helter 👋
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/helter.rondon/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helter.rondon/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helter-rondon/)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/helter.rondon/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helter.rondon/) 
 
 💻 Adoro fuçar em códigos, e quanto mais eu quebro a cabeça, mais eu curto programar! 😅 Resolver desafios e aprender são meus passatempos. Partiu, codar! 🚀
 
